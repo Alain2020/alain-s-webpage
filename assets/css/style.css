@@ -75,3 +75,23 @@
     flex-direction: column;
     background-color: #000000dc;
 }
+#gallery h1{
+    margin: 60px;
+}
+.gallery{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.gallery img{
+    width: 460px;
+    height: auto;
+    padding: 3px;
+    margin: 3px;
+    
+}
+.gallery img:hover{
+    background-color: white;
+    cursor: pointer;
+    filter: brightness(80%);
