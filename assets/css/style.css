@@ -96,3 +96,36 @@
     cursor: pointer;
     filter: brightness(80%);
 }
+
+/* Experience Section*/
+#experience{
+    display: flex;
+    flex-direction: column;
+    background-color: #000000dc;
+}
+#experience h1{
+    margin: 50px;
+}
+.columns{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding-left: 50px;
+}
+.box{
+    height: 200px;
+    width: 500px;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 30px;
+    margin: 10px;
+    padding: 50px;
+}
+.box h2{
+    color: yellowgreen;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+.box p{
+    color: white;
+    font-size: 1.1rem;
+}
+
