@@ -10,7 +10,10 @@
     justify-content: center;
     height: 50px;
     align-items: center;
+    position: sticky;
+    top: 0;
 }
+
 
 .navbar::before{
     content: "";
