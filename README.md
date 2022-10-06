@@ -1,4 +1,4 @@
-This website was made for my educational purposes only.
+<h1>This website was made for my educational purposes only.</h1>
 
 I am Anye Alain, a student in Code Institute. This is my Milestone 1 Project and it is all about me and my knowhow so far.
 
